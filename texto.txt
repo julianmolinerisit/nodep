@@ -1,0 +1,12 @@
+1- En la consola: 
+ npm init
+
+
+ Luego escribimos un nombre.
+ En version ponemos 0.0.1
+
+ Luego una descripción 
+
+ Luego ponemos el archivo inicial.
+
+ 
